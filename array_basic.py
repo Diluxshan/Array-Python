@@ -1,6 +1,13 @@
+import datetime
+import time
+import calendar
 
-print('Enter the first Number:')
-num1 = input()
+
+num1 = 5
 print(num1)
 
 print("Hello Diluxshan!!!!!!!!")
+
+Arr = []
+val = Arr.append(4)
+
